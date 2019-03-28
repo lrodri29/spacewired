@@ -1,12 +1,11 @@
 ---
-layout: minimal
+layout: minimal_tags
 title: "#Tags"
 permalink: /tags/index.html
-description: "Take a look at my beautiful tags."
+description: "Click on tags to find a blog topic!"
 ---
 
 <div class="tags">
-<img src="/assets/img/mars-4k-qhd.jpg">
 {% assign tags_list = site.tags %}
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %}
