@@ -3,6 +3,7 @@ layout: post
 title: "DART"
 date: 2019-03-24 07:34:00
 image: '/assets/img/'
+background: '/assets/img/dart.png'
 description: 'NASA/JHU-APL Double Asteroid Redirection Task'
 tags:
 - asteroid

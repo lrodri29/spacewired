@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "ROSA"
-date: 2019-03-30 07:34:00
+date: 2019-03-24 07:34:00
 image: '/assets/img/'
+background: '/assets/img/rosa2.png'
 description: 'The Roll-out Style Solar Array'
 tags:
 - asteroid
